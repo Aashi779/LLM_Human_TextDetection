@@ -13,7 +13,7 @@ Natural Language Processing (NLP) Techniques: Advanced NLP techniques were appli
 
 ## Getting Started
 Clone the Repository:
-git clone https://github.com/your-username/TextAuth-Detect.git
+git clone https://github.com/Aashi779/LLM_Human_TextDetection.git
 
 Install Dependencies:
 pip install -r requirements.txt
